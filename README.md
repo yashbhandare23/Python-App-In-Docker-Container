@@ -1,4 +1,4 @@
-# Python-App-In-Docker-Container
+# Steps for Python App In Docker Container
 
 This repository provides a step-by-step guide to building and running a Python application in a Docker container. It includes all necessary files and commands for creating a Docker image, configuring the container, and executing the Python app.
 
